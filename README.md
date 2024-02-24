@@ -1,9 +1,10 @@
-• 🚀 **Atualmente cursando ensino médio integrado ao tecnico - informática**
+### **➔ Hi! I´m Antonio Enzo ✌️**
 
-• 🎓 **Instituto Federal do Piauí - IFPI - Campus Picos**
+• 🚀 Atualmente cursando ensino médio integrado ao tecnico - informática
 
-• 🧠 **Buscando conhecimento em novas áreas**
+• 🎓 Instituto Federal do Piauí - IFPI - Campus Picos
 
+• 🧠 Buscando conhecimento em novas áreas
 ##
 
 <div> 

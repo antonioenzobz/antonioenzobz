@@ -1,16 +1,18 @@
 ### **➔ Hi! I´m Antonio Enzo ✌️**
 
-• 🚀 Atualmente cursando ensino médio integrado ao tecnico - informática
+• 🚀 Currently attending high school integrated with technical studies - information technology
 
 • 🎓 Instituto Federal do Piauí - IFPI - Campus Picos
 
-• 🧠 Buscando conhecimento em novas áreas
+• 🧠 Looking for more knowledge
+
+  <a href="https://instagram.com/antonioenzobz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 ##
 
 <div> 
-  <a href="https://instagram.com/antonioenzobz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:antonioenzobezerra789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:antonioenzobezerra789@gmail.com"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+
+[![Python Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"_blank)](#) [![HTML5 Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
   
 </div>
 

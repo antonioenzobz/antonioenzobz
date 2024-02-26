@@ -22,5 +22,5 @@
 
 <div align="center">
 <img alt="Antonio Enzo's GitHub stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=antonioenzobz&show_icons=true&theme=gruvbox"/>
-<img alt="Top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioenzobz&layout=compact&&langs_count=8&theme=gruvbox"/>
+<img alt="Top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioenzobz&layout=compact&&langs_count=8&theme=gruvbox"/>
 </div>

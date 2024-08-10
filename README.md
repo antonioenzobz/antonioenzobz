@@ -4,7 +4,7 @@
 I am currently attending high school integrated with technical studies in Information Technology at [IFPI - Campus Picos](https://www.ifpi.edu.br).
 
 💻 **Aspiring Full Stack Developer**  
-Passionate about technology, I am focused on becoming a full stack developer, using **PostgreSQL**on the back end and **HTML**, **CSS**, and **JavaScript** on the front end. My current journey involves deepening my knowledge in these technologies to create complete and efficient web solutions.
+Passionate about technology, I am focused on becoming a full stack developer, using **PostgreSQL** on the back end and **HTML**, **CSS**, and **JavaScript** on the front end. My current journey involves deepening my knowledge in these technologies to create complete and efficient web solutions.
 
 🧠 **Knowledge Seeker**  
 I believe that learning is a continuous process. I am always looking for new opportunities to learn, collaborate, and contribute to open-source projects.
@@ -28,10 +28,8 @@ Let's connect on social media and share knowledge!
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </div>
 
 ---

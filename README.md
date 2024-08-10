@@ -4,18 +4,20 @@
 Atualmente, estou cursando o ensino médio integrado com estudos técnicos em Tecnologia da Informação no [IFPI - Campus Picos](https://www.ifpi.edu.br).
 
 💻 **Desenvolvedor em Formação**  
-Apaixonado por tecnologia, estou focado em desenvolvimento web, explorando tanto o front-end quanto o back-end. Minha jornada atual inclui o aprofundamento em **PHP**, **MySQL**, e **JavaScript**, com o objetivo de dominar o desenvolvimento full-stack.
+Apaixonado por tecnologia, estou focado em me tornar um desenvolvedor full stack, utilizando **TypeScript** no back-end e **HTML**, **CSS**, e **JavaScript** no front-end. Minha jornada atual inclui o aprofundamento nessas tecnologias para criar soluções web completas e eficientes.
 
 🧠 **Buscador de Conhecimento**  
 Acredito que o aprendizado é um processo contínuo. Estou sempre em busca de novas oportunidades para aprender, colaborar e contribuir com projetos open-source.
 
 🎯 **Objetivo**  
-Meu próximo passo é mergulhar no mundo da **Inteligência Artificial** e **Machine Learning**, combinando minhas habilidades de programação com o potencial dessas tecnologias.
+Meu objetivo é me tornar um desenvolvedor full stack completo e adquirir um bom conhecimento em diversas outras linguagens de programação, ampliando meu leque de habilidades e competências.
 
 📫 **Conecte-se Comigo**  
 Vamos nos conectar nas redes sociais e compartilhar conhecimento!
 
 <a href="https://instagram.com/antonioenzobz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/seu-numero-whatsapp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 ---
 

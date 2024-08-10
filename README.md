@@ -4,7 +4,7 @@
 I am currently attending high school integrated with technical studies in Information Technology at [IFPI - Campus Picos](https://www.ifpi.edu.br).
 
 💻 **Aspiring Full Stack Developer**  
-Passionate about technology, I am focused on becoming a full stack developer, using **TypeScript** on the back end and **HTML**, **CSS**, and **JavaScript** on the front end. My current journey involves deepening my knowledge in these technologies to create complete and efficient web solutions.
+Passionate about technology, I am focused on becoming a full stack developer, using **PostgreSQL**on the back end and **HTML**, **CSS**, and **JavaScript** on the front end. My current journey involves deepening my knowledge in these technologies to create complete and efficient web solutions.
 
 🧠 **Knowledge Seeker**  
 I believe that learning is a continuous process. I am always looking for new opportunities to learn, collaborate, and contribute to open-source projects.
@@ -16,8 +16,8 @@ My goal is to become a well-rounded full stack developer and gain strong knowled
 Let's connect on social media and share knowledge!
 
 <a href="https://instagram.com/antonioenzobz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/seu-numero-whatsapp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/antonioenzobz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/89988161102" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 ---
 

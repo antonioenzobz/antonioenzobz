@@ -39,5 +39,5 @@ Let's connect on social media and share knowledge!
 
 <div align="center">
   <img alt="Antonio Enzo's GitHub Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=antonioenzobz&show_icons=true&theme=gruvbox"/>
-  <img alt="Top Languages" align="left" width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioenzobz&layout=compact&langs_count=8&theme=gruvbox"/>
+  <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioenzobz&layout=compact&langs_count=8&theme=gruvbox"/>
 </div>

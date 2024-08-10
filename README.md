@@ -1,19 +1,19 @@
-## **Olá! Eu sou o Antonio Enzo ✌️**
+## **Hello! I'm Antonio Enzo ✌️**
 
-🎓 **Estudante de Informática**  
-Atualmente, estou cursando o ensino médio integrado com estudos técnicos em Tecnologia da Informação no [IFPI - Campus Picos](https://www.ifpi.edu.br).
+🎓 **Information Technology Student**  
+I am currently attending high school integrated with technical studies in Information Technology at [IFPI - Campus Picos](https://www.ifpi.edu.br).
 
-💻 **Desenvolvedor em Formação**  
-Apaixonado por tecnologia, estou focado em me tornar um desenvolvedor full stack, utilizando **TypeScript** no back-end e **HTML**, **CSS**, e **JavaScript** no front-end. Minha jornada atual inclui o aprofundamento nessas tecnologias para criar soluções web completas e eficientes.
+💻 **Aspiring Full Stack Developer**  
+Passionate about technology, I am focused on becoming a full stack developer, using **TypeScript** on the back end and **HTML**, **CSS**, and **JavaScript** on the front end. My current journey involves deepening my knowledge in these technologies to create complete and efficient web solutions.
 
-🧠 **Buscador de Conhecimento**  
-Acredito que o aprendizado é um processo contínuo. Estou sempre em busca de novas oportunidades para aprender, colaborar e contribuir com projetos open-source.
+🧠 **Knowledge Seeker**  
+I believe that learning is a continuous process. I am always looking for new opportunities to learn, collaborate, and contribute to open-source projects.
 
-🎯 **Objetivo**  
-Meu objetivo é me tornar um desenvolvedor full stack completo e adquirir um bom conhecimento em diversas outras linguagens de programação, ampliando meu leque de habilidades e competências.
+🎯 **Goal**  
+My goal is to become a well-rounded full stack developer and gain strong knowledge in various other programming languages, expanding my skill set and competencies.
 
-📫 **Conecte-se Comigo**  
-Vamos nos conectar nas redes sociais e compartilhar conhecimento!
+📫 **Connect with Me**  
+Let's connect on social media and share knowledge!
 
 <a href="https://instagram.com/antonioenzobz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +21,7 @@ Vamos nos conectar nas redes sociais e compartilhar conhecimento!
 
 ---
 
-## 🚀 **Tecnologias e Ferramentas**
+## 🚀 **Technologies and Tools**
 
 <div> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
@@ -36,9 +36,9 @@ Vamos nos conectar nas redes sociais e compartilhar conhecimento!
 
 ---
 
-## 📊 **Minhas Estatísticas**
+## 📊 **My Stats**
 
 <div align="center">
-  <img alt="GitHub Stats de Antonio Enzo" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=antonioenzobz&show_icons=true&theme=gruvbox"/>
-  <img alt="Top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioenzobz&layout=compact&langs_count=8&theme=gruvbox"/>
+  <img alt="Antonio Enzo's GitHub Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=antonioenzobz&show_icons=true&theme=gruvbox"/>
+  <img alt="Top Languages" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioenzobz&layout=compact&langs_count=8&theme=gruvbox"/>
 </div>
